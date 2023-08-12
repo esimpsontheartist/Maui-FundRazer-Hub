@@ -29,7 +29,7 @@ st.write(
     """
     Maui Fundrazer Tools for Users is here for your viewing needs and pleasure.
 
- * PUT sales COPY HERE for public later *
+
     """
 )
 
