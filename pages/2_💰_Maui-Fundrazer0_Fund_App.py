@@ -10,7 +10,7 @@ st.write("# Welcome to Maui-Fundrazer Fund App Information Page! 💰")
 st.markdown(
     """
     ### Want to learn more?
-    - Check out https:// link to token drop purchase page, price starting 10 matic/
+    - Check out https://maui-lava-raze.vercel.app/
 
 """
 )
