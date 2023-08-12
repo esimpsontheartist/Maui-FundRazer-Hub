@@ -11,6 +11,7 @@ st.markdown(
     """
     ### 
     - Check out [Maui-FundRazer Market One!](https://maui-lava-raze-art.vercel.app/)
+    - Go here to spent  your 100 Maui-Fundraze0 Tokens on the Collection One!  More collections coming in the following days as the artist submits the art to us.
 
 
 """
