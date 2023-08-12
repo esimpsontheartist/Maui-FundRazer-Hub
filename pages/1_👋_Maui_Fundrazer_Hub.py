@@ -10,7 +10,7 @@ st.write("# Welcome to Maui Fundarazer Project Information Hub. 👋")
 st.markdown(
     """
     ### Want to learn more?
-    - Check out [Maui FundRazer Token for Art purchase and donation to Kingdom! Demo](https:///)
+    - Check out [Maui FundRazer Token for Art purchase and donation to Kingdom! Demo](https://maui-lava-raze.vercel.app//)
 
 
 """
