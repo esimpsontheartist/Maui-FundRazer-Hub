@@ -10,7 +10,7 @@ st.write("# Welcome to Maui-Fundraze0 Marketplace One! 👋")
 st.markdown(
     """
     ### 
-    - Check out [7MT Market Zero!](https:// /)
+    - Check out [Maui-FundRazer Market One!](https://maui-lava-raze-art.vercel.app/)
 
 
 """
