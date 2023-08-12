@@ -11,6 +11,6 @@ st.markdown(
     """
     ### Want to learn more?
     - Check out https://maui-lava-raze.vercel.app/
-
+For only 10 Matic you can get 1 Maui-FundRaze0 token!  The art in the collections starts at 10 tokens in some cases, 100 in others!  Bid to donate the tokens back to the Kingdom and get art!  Mint the tokens at the Fund Page!
 """
 )
