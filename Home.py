@@ -25,9 +25,9 @@ c12.image(Image.open('images/optimism-logo.png'))
 c13.image(Image.open('images/arbitrum-logo.png'))
 c14.image(Image.open('images/axelar-logo.png'))
 
-c16, c17= st.columns(2)
-c16.image(Image.open('images/Screenshot - 8_21_2023 , 3_52_15 PM.png'))
-c17.image(Image.open('images/allenVans.png'))
+c16, = st.columns(1)
+c16.image(Image.open('images/Hawaii clipped.gif'))
+
 
 
 st.write(
