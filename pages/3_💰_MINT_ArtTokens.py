@@ -24,4 +24,4 @@ components.html(
     height=600,
     width=600,
 )
-)
+
