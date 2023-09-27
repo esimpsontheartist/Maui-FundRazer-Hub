@@ -1,10 +1,15 @@
+this one works:
+
 import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="Maui LavaRaze Matic Mint Page",
+    page_title="TurtleShell Shield Matic Claim Page",
     page_icon="💰",
 )
+
+
+
 
 # bootstrap 4 collapse example
 components.html(
@@ -24,4 +29,3 @@ components.html(
     height=600,
     width=600,
 )
-
