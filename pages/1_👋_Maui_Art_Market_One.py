@@ -1,18 +1,18 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Maui-Fundraze0 Marketplace One",
+    page_title="Maui LavaRazer Info Hub",
     page_icon="👋",
 )
 
-st.write("# Welcome to Maui-Fundraze0 Marketplace One! 👋")
+st.write("# Welcome to Maui LavaRaze Minting and Art Token Hub. 👋")
 
 st.markdown(
     """
-    ### 
-    - Check out [Maui-FundRazer Market One!](https://maui-lava-raze-art.vercel.app/)
-    - Go here to spent  your 100 Maui-Fundraze0 Tokens on the Collection One!  More collections coming in the following days as the artist submits the art to us. The more you spend in 100 token increments, the more art work  you will mint with your Maui-FundRaze0 Tokens as an incentive to buy in 100 token increments.
-     
+    ### Want to learn more?
+    - This is a Royal Hawaiian Kingdom Tribal Project, involving gamification of musical culture and retro game revival.
+    - This project is also a freedom project under the auspices of the EMIT-FREEDOM act.  More information will be provided in the community Slack Chat - Link TBA.
+    - We exist strictly to raise money for tribal concerns via crypto and musical fundraising and art economics in Games, for Maui and Hawaii as a whole's repair and regeneration as a community.
 
 
 """
